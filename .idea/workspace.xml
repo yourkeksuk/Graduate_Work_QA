@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbeeab22-9448-41c6-be16-820705afc9ae" name="Changes" comment="Update diplom work commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documents/Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/Plan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gate-simulator/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gate-simulator/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="dbeeab22-9448-41c6-be16-820705afc9ae" name="Changes" comment="Change plan.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672318441988</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Change plan.md">
+      <created>1673182894036</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673182894036</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +157,7 @@
     <MESSAGE value="Update Plan.md commit" />
     <MESSAGE value="Update .gitignore commit" />
     <MESSAGE value="Update diplom work commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update diplom work commit" />
+    <MESSAGE value="Change plan.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change plan.md" />
   </component>
 </project>
